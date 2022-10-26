@@ -3,6 +3,7 @@
 Meowdy! Name's Raphael. 
 
 I love technology and using it to make things simpler and accessible is my goal.
+I'm a mere beginner but also I am very motivated to learn.
 
 
 ## **Languages and tools:**  
