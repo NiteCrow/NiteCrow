@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+## <img width="45" alt="about" src="https://github.com/NiteCrow/NiteCrow/blob/main/assets/thurston-no-bg.png?raw=true"> About me
 
 Meowdy! Name's Raphael. 
 
