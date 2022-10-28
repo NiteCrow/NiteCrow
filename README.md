@@ -19,7 +19,7 @@ I'm a mere beginner but also I am very motivated to learn.
 ## **Cool Statistics**
 
 <a href="https://github.com/NiteCrow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteCrow&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitecrow&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Nitecrow">
